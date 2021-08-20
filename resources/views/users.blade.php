@@ -34,7 +34,7 @@
             </ul>
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item">
-                    <a class="nav-link" href="page_login.blade.php">Войти</a>
+                    <a class="nav-link" href="/login">Войти</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#">Выйти</a>
